@@ -77,7 +77,7 @@ int main(){
                 break;
             }
             case '2':
-                // Sair do programa
+                // Sair do programa.
                 std::cout << "Saindo...\n";
                 break;
             default:

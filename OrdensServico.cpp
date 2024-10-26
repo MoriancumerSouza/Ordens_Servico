@@ -70,7 +70,7 @@ int main(){
 
         switch (escolha) {
             case '1': {
-                // Criar uma nova ordem de serviço
+                // Criar uma nova ordem de serviço.
                 OrdemServico ordem = criarOrdemServico();
                 ordens.push_back(ordem);
                 criarDocumento(ordens);

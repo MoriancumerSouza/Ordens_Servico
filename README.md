@@ -21,7 +21,7 @@ O programa solicita informações como descrição do serviço e, em seguida, re
    g++ ordensServico.cpp -o ordensServico && ./ordensServico
 
 
-   ## Contribuição
+## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 1. Faça um fork do projeto.

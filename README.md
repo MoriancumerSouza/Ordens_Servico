@@ -28,7 +28,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 2. Crie uma nova branch:
    ```bash
    git checkout -b feature/nova-funcionalidade
-
+ ```bash
 git commit -m "Descrição das alterações"
 git push origin feature/nova-funcionalidade
 

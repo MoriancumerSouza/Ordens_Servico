@@ -20,6 +20,9 @@ O programa solicita informações como descrição do serviço e, em seguida, re
    cd Ordens_Servico
    g++ ordensServico.cpp -o ordensServico && ./ordensServico
 
+## Licença
+Este projeto está licenciado sob a Licença MIT.
+Veja mais detalhes em [LICENSE](LICENSE).
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
@@ -31,8 +34,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
  ```bash
 git commit -m "Descrição das alterações"
 git push origin feature/nova-funcionalidade
-
-## Licença
-Este projeto está licenciado sob a Licença MIT.
-Veja mais detalhes em [LICENSE](LICENSE).
 
